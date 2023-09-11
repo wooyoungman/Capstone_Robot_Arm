@@ -40,7 +40,7 @@ https://github.com/Taebee00/2023_1_Capstone_Project/assets/104549849/b065c970-fd
 |5번 관절|4번 관절에 붙어 하노이탑 원반을 잡거나 놓을 수 있도록 회전하는 관절(그리퍼 제어)|
 
 ## 3D 모델링
-로봇팔의 프레임을 AutoDesk360 을 통해 3D모델링 한 후 프린트하여 제작
+로봇팔의 프레임을 AutoDesk Fusion 360 을 통해 3D모델링 한 후 프린트하여 제작
 |몸통|덮개|팔|그리퍼 연결부|
 |---|---|---|---|
 |![image](https://github.com/Taebee00/2023_1_Capstone_Project/assets/104549849/3c452979-55a5-44c5-b445-e3a824d2b90c)|![image](https://github.com/Taebee00/2023_1_Capstone_Project/assets/104549849/a3079c71-396e-4044-b4d9-e1fcffd8837c)|![image](https://github.com/Taebee00/2023_1_Capstone_Project/assets/104549849/7afb5a0d-bfeb-4e2e-87f3-bbf120c44d0b)|![image](https://github.com/Taebee00/2023_1_Capstone_Project/assets/104549849/1f75e5ae-c157-4444-9856-0c987376bde3)|
