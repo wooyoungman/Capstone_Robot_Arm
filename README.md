@@ -14,7 +14,7 @@ https://github.com/Taebee00/2023_1_Capstone_Project/assets/104549849/b065c970-fd
 |---|---|---|
 |김선우|Inverse Kinematics 계산 & 모터 제어, 하노이탑 인식 구현 |https://github.com/sw801733|
 |나영조|Inverse Kinematics 수식 계산 & Object Detection 학습 환경 구축 및 학습 진행|https://github.com/Taebee00|
-|서종현|HW(로봇팔 프레임) 3D 모델링 및 프린팅 & 하노이탑 알고리즘 구현 & 코드 리팩토링|https://github.com/surpise|
+|서종현|HW(로봇팔 프레임) 3D 모델링 및 프린팅 & 코드 리팩토링|https://github.com/surpise|
 |정우영|HW(로봇팔 프레임) 3D 모델링 및 프린팅 & Object Detection 학습 환경 구축 및 학습 진행|https://github.com/wooyoungman|
 
 ## 프로젝트 기간
