@@ -45,7 +45,7 @@ https://github.com/sw801733/Capstone_Robot_Arm/assets/104549849/64c4470a-2ccb-41
 로봇팔의 프레임을 AutoDesk Fusion 360 을 통해 3D모델링 한 후 프린트하여 제작
 |몸통|덮개|팔|그리퍼 연결부|
 |---|---|---|---|
-|![image](https://github.com/Taebee00/2023_1_Capstone_Project/assets/104549849/3c452979-55a5-44c5-b445-e3a824d2b90c)|![image](https://github.com/Taebee00/2023_1_Capstone_Project/assets/104549849/a3079c71-396e-4044-b4d9-e1fcffd8837c)|![image](https://github.com/Taebee00/2023_1_Capstone_Project/assets/104549849/7afb5a0d-bfeb-4e2e-87f3-bbf120c44d0b)|![image](https://github.com/Taebee00/2023_1_Capstone_Project/assets/104549849/1f75e5ae-c157-4444-9856-0c987376bde3)|
+|![몸통](https://github.com/Taebee00/Capstone_Robot_Arm/assets/104549849/62fd2d3c-c90a-48e5-b4e3-37f964f8c54f)|![덮개](https://github.com/Taebee00/Capstone_Robot_Arm/assets/104549849/3c022401-e23d-462e-888f-298aa8991bbb)|![팔](https://github.com/Taebee00/Capstone_Robot_Arm/assets/104549849/29357338-210e-4e22-abd9-18fda63e682c)|![그리퍼 연결부](https://github.com/Taebee00/Capstone_Robot_Arm/assets/104549849/ae1919b2-e7aa-497e-a86a-a75f768e23a9)|
 
 ## 하노이탑 이미지 학습
 로봇팔이 하노이탑의 상태를 판단할 수 있어야 하기 때문에 하노이탑 각각의 원반 이미지를 학습시키고자 함
